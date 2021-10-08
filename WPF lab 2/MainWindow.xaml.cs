@@ -17,7 +17,7 @@ using System.Windows.Shapes;
 
 namespace WPF_lab_2
 {
-    static class logicForIfTask
+    public static class logicForIfTask
     {
         public static string SintRub(int ruble, int penny)
         {
